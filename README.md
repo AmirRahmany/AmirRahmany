@@ -4,7 +4,6 @@ You can find me very easily 😄
 
 [![](https://img.shields.io/badge/AmirRahmani7017%40gmail.com-white?logo=Gmail)](mailto:amirrahmani7017@gmail.com)
 [![](https://img.shields.io/badge/AmirRahmani-white?logo=Linkedin&logoColor=blue)]([https://www.linkedin.com/in/maliheh-ghasemian-2a04391a5/](https://www.linkedin.com/in/amirhossein-rahmani/))
-[![](https://img.shields.io/badge/AmirRahmani-white?logo=telegram)](https://t.me/amiirRahmani)
 
  🎉 I'm a Java BackEnd developer. 
 
