@@ -1,7 +1,5 @@
 ### Hi I'm Amir <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlla2YzeTFyMnYwN3c2dm8xdDAwdDJoZmhtajlrazA3YnZ2OW8wbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UEJ6DQQp68LJSnyaBb/giphy.gif" width="30">
 
-You can find me very easily 😄
-
 [![](https://img.shields.io/badge/AmirRahmani7017%40gmail.com-white?logo=Gmail)](mailto:amirrahmani7017@gmail.com)
 [![](https://img.shields.io/badge/AmirRahmani-white?logo=Linkedin&logoColor=blue)]([https://www.linkedin.com/in/maliheh-ghasemian-2a04391a5/](https://www.linkedin.com/in/amirhossein-rahmani/))
 
