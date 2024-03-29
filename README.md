@@ -1,4 +1,4 @@
-### Hi folks, I'm Amir 👋
+### Hi I'm Amir 👋
 
 You can find me very easily 😄
 
