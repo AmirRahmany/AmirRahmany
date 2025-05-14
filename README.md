@@ -1,23 +1,43 @@
-### Hi I'm Amir <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlla2YzeTFyMnYwN3c2dm8xdDAwdDJoZmhtajlrazA3YnZ2OW8wbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UEJ6DQQp68LJSnyaBb/giphy.gif" width="30">
+# 👋 Hi, I'm Amir Rahmani 
+**Java Backend Developer | Clean Code Advocate**
 
-[![](https://img.shields.io/badge/AmirRahmani7017%40gmail.com-white?logo=Gmail)](mailto:amirrahmani7017@gmail.com)
-[![](https://img.shields.io/badge/AmirRahmani-white?logo=Linkedin&logoColor=blue)]([https://www.linkedin.com/in/maliheh-ghasemian-2a04391a5/](https://www.linkedin.com/in/amirhossein-rahmani/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/amirhossein-rahmani/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirrahmani7017@gmail.com)
 
- 🎉 I'm a BackEnd developer. 
+## 🔧 Technical Skills
 
+### 🖥️ Programming Languages
+![Java](https://img.shields.io/badge/Java-Expert-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-| ![AmirRahmany GitHub stats](https://github-readme-stats.vercel.app/api/?username=AmirRahmany&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide=stars) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRahmany&langs_count=15&layout=compact&show_icons=true&theme=react) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+### 🏗️ Software Engineering Principles
+![Clean Code](https://img.shields.io/badge/Clean_Code-FF6C37?style=flat&logo=codefactor&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-25A162?style=flat&logo=testcafe&logoColor=white)
+![Refactoring](https://img.shields.io/badge/Refactoring-2496ED?style=flat&logo=git&logoColor=white)
+![OOP/OOD](https://img.shields.io/badge/Object_Oriented_Design-FF6C37?style=flat&logo=oop&logoColor=white)
 
-<!--
-Here are some ideas to get you started:
+### 🎛️ Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧪 Testing Tools
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
+![AssertJ](https://img.shields.io/badge/AssertJ-25A162?style=flat&logo=testcafe&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat&logo=mockito&logoColor=white)
+
+**Databases & ORM**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+
+### 🌐 Frontend Basics
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 🛠️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
