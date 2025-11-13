@@ -10,13 +10,15 @@
 ### 🖥️ Programming Languages
 ![Java](https://img.shields.io/badge/Java-Expert-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-Basic-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Basic-F7DF1E?style=flat&logo=python&logoColor=white)
 
 ### 🏗️ Software Engineering Principles
 ![Clean Code](https://img.shields.io/badge/Clean_Code-FF6C37?style=flat&logo=codefactor&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-25A162?style=flat&logo=testcafe&logoColor=white)
 ![Refactoring](https://img.shields.io/badge/Refactoring-2496ED?style=flat&logo=git&logoColor=white)
 ![OOP/OOD](https://img.shields.io/badge/Object_Oriented_Design-FF6C37?style=flat&logo=oop&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns_Design-2772db?style=flat&logo=github&logoColor=white)
 
 ### 🎛️ Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -26,6 +28,8 @@
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
 ![AssertJ](https://img.shields.io/badge/AssertJ-25A162?style=flat&logo=testcafe&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat&logo=mockito&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-25A162?style=flat&logo=cucumber&logoColor=white)
+![JGiven](https://img.shields.io/badge/JGiven-25A162?style=flat&logo=junit&logoColor=white)
 
 **Databases & ORM**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
