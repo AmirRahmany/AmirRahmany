@@ -18,7 +18,7 @@
 ![TDD](https://img.shields.io/badge/TDD-25A162?style=flat&logo=testcafe&logoColor=white)
 ![Refactoring](https://img.shields.io/badge/Refactoring-2496ED?style=flat&logo=git&logoColor=white)
 ![OOP/OOD](https://img.shields.io/badge/Object_Oriented_Design-FF6C37?style=flat&logo=oop&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns_Design-2772db?style=flat&logo=github&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-2772db?style=flat&logo=github&logoColor=white)
 
 ### 🎛️ Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
